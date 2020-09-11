@@ -17,7 +17,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.4.14",
     "ms": "^2.1.1",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^1.18.3",
     "opusscript": "0.0.6",
     "request": "^2.88.0",
